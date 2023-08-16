@@ -1,1 +1,6 @@
-
+input,label{
+	display:block;
+}
+button{
+	margin-top:10px;
+}
